@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SoloMCX.aternos.me:30231",
+    "ip": "SoloMCX.aternos.me",
     "port": 3021,
     "version": "",
     "try-creative": false
